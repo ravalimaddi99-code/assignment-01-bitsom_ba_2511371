@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 55000,
+    "expiry": null,
+    "tags": ["tech", "student", "work"],
+    "details": {
+      "brand": "HP",
+      "warranty_years": 2
+    }
+  },
+  {
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 25000,
+    "expiry": null,
+    "tags": ["mobile", "android"],
+    "details": {
+      "brand": "Samsung",
+      "warranty_years": 1
+    }
+  },
+  {
+    "name": "Milk",
+    "category": "Groceries",
+    "price": 50,
+    "expiry": "2024-12-01",
+    "tags": ["daily", "fresh"],
+    "details": {
+      "brand": "Amul",
+      "quantity": "1L"
+    }
+  }
+]
